@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\NewMark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A38EBF-7ED0-4C1A-9F29-63BA6D45ABEA}|NewMark\\NewMark.csproj|c:\\users\\user\\source\\repos\\newmark\\newmark\\controllers\\blobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A38EBF-7ED0-4C1A-9F29-63BA6D45ABEA}|NewMark\\NewMark.csproj|solutionrelative:newmark\\controllers\\blobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A38EBF-7ED0-4C1A-9F29-63BA6D45ABEA}|NewMark\\NewMark.csproj|c:\\users\\user\\source\\repos\\newmark\\newmark\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02A38EBF-7ED0-4C1A-9F29-63BA6D45ABEA}|NewMark\\NewMark.csproj|solutionrelative:newmark\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A38EBF-7ED0-4C1A-9F29-63BA6D45ABEA}|NewMark\\NewMark.csproj|c:\\users\\user\\source\\repos\\newmark\\newmark\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02A38EBF-7ED0-4C1A-9F29-63BA6D45ABEA}|NewMark\\NewMark.csproj|solutionrelative:newmark\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A38EBF-7ED0-4C1A-9F29-63BA6D45ABEA}|NewMark\\NewMark.csproj|c:\\users\\user\\source\\repos\\newmark\\newmark\\models\\rentroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A38EBF-7ED0-4C1A-9F29-63BA6D45ABEA}|NewMark\\NewMark.csproj|solutionrelative:newmark\\models\\rentroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A38EBF-7ED0-4C1A-9F29-63BA6D45ABEA}|NewMark\\NewMark.csproj|c:\\users\\user\\source\\repos\\newmark\\newmark\\models\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A38EBF-7ED0-4C1A-9F29-63BA6D45ABEA}|NewMark\\NewMark.csproj|solutionrelative:newmark\\models\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A38EBF-7ED0-4C1A-9F29-63BA6D45ABEA}|NewMark\\NewMark.csproj|c:\\users\\user\\source\\repos\\newmark\\newmark\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A38EBF-7ED0-4C1A-9F29-63BA6D45ABEA}|NewMark\\NewMark.csproj|solutionrelative:newmark\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A38EBF-7ED0-4C1A-9F29-63BA6D45ABEA}|NewMark\\NewMark.csproj|c:\\users\\user\\source\\repos\\newmark\\newmark\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A38EBF-7ED0-4C1A-9F29-63BA6D45ABEA}|NewMark\\NewMark.csproj|solutionrelative:newmark\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NewMark\\NewMark\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NewMark\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NewMark\\NewMark\\appsettings.Development.json",
+              "RelativeToolTip": "NewMark\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T14:52:53.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentRoll.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NewMark\\NewMark\\Models\\RentRoll.cs",
+              "RelativeDocumentMoniker": "NewMark\\Models\\RentRoll.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NewMark\\NewMark\\Models\\RentRoll.cs*",
+              "RelativeToolTip": "NewMark\\Models\\RentRoll.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:49:21.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Space.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NewMark\\NewMark\\Models\\Space.cs",
+              "RelativeDocumentMoniker": "NewMark\\Models\\Space.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NewMark\\NewMark\\Models\\Space.cs",
+              "RelativeToolTip": "NewMark\\Models\\Space.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:49:02.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NewMark\\NewMark\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "NewMark\\Models\\Property.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NewMark\\NewMark\\Models\\Property.cs",
+              "RelativeToolTip": "NewMark\\Models\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:48:29.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NewMark\\NewMark\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "NewMark\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NewMark\\NewMark\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "NewMark\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:47:34.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlobController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NewMark\\NewMark\\Controllers\\BlobController.cs",
+              "RelativeDocumentMoniker": "NewMark\\Controllers\\BlobController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NewMark\\NewMark\\Controllers\\BlobController.cs",
+              "RelativeToolTip": "NewMark\\Controllers\\BlobController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T14:47:27.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\NewMark\\NewMark\\appsettings.json",
+              "RelativeDocumentMoniker": "NewMark\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\NewMark\\NewMark\\appsettings.json*",
+              "RelativeToolTip": "NewMark\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T14:46:39.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
